@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="93" started-at="2015-11-13T22:55:47Z" finished-at="2015-11-13T22:55:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="93" started-at="2015-11-13T22:55:47Z" finished-at="2015-11-13T22:55:47Z">
+      <class name="EasyThreadLocalNGTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpClass" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="instanceTest()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="instanceTest" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="instanceTest2()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="instanceTest2" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest2 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="instanceTest4()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="instanceTest4" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest4 -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpMethod" is-config="true" duration-ms="25" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="instanceTest3()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="instanceTest3" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest3 -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="instanceTest7()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="instanceTest7" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest7 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownMethod" is-config="true" duration-ms="6" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="instanceTest6()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="instanceTest6" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest6 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownMethod" is-config="true" duration-ms="2" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="instanceTest5()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="instanceTest5" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest5 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:EasyThreadLocalNGTest@129a8472]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- EasyThreadLocalNGTest -->
+      <class name="EasyNGTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpClass" is-config="true" duration-ms="12" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpMethod" is-config="true" duration-ms="3" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="instanceTest4()[pri:0, instance:EasyNGTest@6debcae2]" name="instanceTest4" duration-ms="2" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest4 -->
+        <test-method status="PASS" signature="instanceTest()[pri:0, instance:EasyNGTest@6debcae2]" name="instanceTest" duration-ms="15" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest -->
+        <test-method status="PASS" signature="instanceTest2()[pri:0, instance:EasyNGTest@6debcae2]" name="instanceTest2" duration-ms="2" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest2 -->
+        <test-method status="PASS" signature="instanceTest3()[pri:0, instance:EasyNGTest@6debcae2]" name="instanceTest3" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest3 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownMethod" is-config="true" duration-ms="15" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownMethod" is-config="true" duration-ms="3" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="instanceTest5()[pri:0, instance:EasyNGTest@6debcae2]" name="instanceTest5" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest5 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="setUpMethod" is-config="true" duration-ms="34" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="instanceTest6()[pri:0, instance:EasyNGTest@6debcae2]" name="instanceTest6" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest6 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="instanceTest7()[pri:0, instance:EasyNGTest@6debcae2]" name="instanceTest7" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceTest7 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:EasyNGTest@6debcae2]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- EasyNGTest -->
+      <class name="ProviderNGTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:ProviderNGTest@1b0375b3]" name="setUpClass" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:ProviderNGTest@1b0375b3]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testMe(java.lang.String, java.util.Map)[pri:0, instance:ProviderNGTest@1b0375b3]" name="testMe" duration-ms="2" started-at="2015-11-14T01:55:47Z" data-provider="getData" finished-at="2015-11-14T01:55:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ids]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{clientId=00000000-0000-0001-0000-000000000000, productId=00000000-0000-0001-0000-000000000001}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMe -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:ProviderNGTest@1b0375b3]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:ProviderNGTest@1b0375b3]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2015-11-14T01:55:47Z" finished-at="2015-11-14T01:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- ProviderNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
